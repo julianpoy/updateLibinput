@@ -1,6 +1,6 @@
 # Libinput Update Script
 
-This updates Libinput to any version available from Debian.
+This updates Libinput on a Debian-based distro to any version available from Debian.
 
 See the latest version available here:
 https://github.com/wayland-project/libinput/releases
